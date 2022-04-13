@@ -1,5 +1,4 @@
 import streamlit as st
-st.sidebar.image("logo.jpeg", use_column_width=True)
 st.sidebar.text("联系我们：")
 st.sidebar.text("https://XXXX/")
 
